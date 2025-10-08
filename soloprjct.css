@@ -16,7 +16,8 @@ header {
 }
 .lnks2 {
    display: flex;
-   gap: 50px;
+   gap: 5vh;
+   padding-left: 80vh;
 }
 header button {
     background-color: black;
