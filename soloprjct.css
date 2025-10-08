@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.lnks{
+    display: flex;
+    gap: 50px;
+}
+.lnks img{
+    height: 90px;
+    width: 100px;
+}
+.lnks a {
+    padding-top: 35px;
+}
+.lnks2 {
+   display: flex;
+   gap: 50px;
+}
+header button {
+    background-color: black;
+    color: azure;
+    height: 50px;
+    border-radius: 10px;
+}
