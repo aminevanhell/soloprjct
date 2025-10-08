@@ -25,3 +25,22 @@ header button {
     height: 50px;
     border-radius: 10px;
 }
+.cntnt1{
+    align-items: center;
+}
+.cntnt1{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    gap: 5vh
+}
+.cntnt1 button {
+    height: 60px;
+    width: 300px;
+    background-color: rgba(23, 138, 30, 0.83);
+    color: aliceblue;
+    border-radius: 20px;
+}
+article img{
+    padding-left: 60vh;
+}
