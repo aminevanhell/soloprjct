@@ -17,13 +17,17 @@ header {
 .lnks2 {
    display: flex;
    gap: 5vh;
-   padding-left: 80vh;
+   padding-left: 100vh;
+
 }
 header button {
     background-color: black;
     color: azure;
     height: 50px;
     border-radius: 10px;
+    border-color: aliceblue;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    width: 200px;
 }
 .cntnt1{
     align-items: center;
@@ -40,7 +44,123 @@ header button {
     background-color: rgba(23, 138, 30, 0.83);
     color: aliceblue;
     border-radius: 20px;
+        border-color: black;
+    border:solid 2px;
 }
 article img{
-    padding-left: 60vh;
+    padding-left: 70vh;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    gap: 30vh;
+}
+.sell{
+    padding-left: 25vh;
+    font-size: larger;
+}
+.orngbtn{
+    padding-left: 25vh;
+}
+.orngbtn button {
+    height: 50px;
+    width: 300px;
+    background-color: rgba(233, 181, 107, 0.863);
+    border-radius: 10px;
+        border-color: black;
+    border:solid 2px;
+}
+.fcbkinsta {
+    display: flex;
+    padding-left: 25vh;
+    gap: 20vh;
+    margin-bottom: 200px;
+}
+.prflimg img {
+    height: 50px;
+    border-radius: 80%;
+}
+.prflcntnt {
+    display: flex;
+    gap: 10px;
+}
+.star {
+    display: flex;
+    gap: 10px;
+}
+.prflimg {
+    display: flex;
+    gap: 100vh;
+    padding-left: 80px;
+}
+.crd {
+    background-color: rgb(229, 181, 151);
+        margin-right: 200px;
+    margin-left: 200px;
+    border-radius: 30px;
+        border-color: black;
+    border:solid 2px;
+}
+.sfra img {
+    position: absolute;
+}
+.crd p {
+    padding-left: 100px;
+    padding-top: 20px;
+}
+nav{
+   padding-left: 115vh;
+}
+.grnbtn button {
+    width: 40vh;
+    height: 50px;
+    background-color: rgb(141, 228, 176);
+    border-radius: 10px;
+}
+.fcbkggl {
+    display: flex;
+    gap: 10vh;
+    padding-top: 10vh;
+}
+.pp2 p {
+    padding-left: 100vh;
+}
+.img {
+
+}
+.crd2 {
+    background-color: rgb(141, 228, 176);
+            margin-right: 200px;
+    margin-left: 200px;
+    border-radius: 30px;
+    border-color: black;
+    border:solid 2px;
+}
+.grnphoto{
+    position: absolute;
+    left: 79px;
+ bottom: -1491px;
+}
+.crd3 {
+    background-color: rgb(98, 115, 212);
+            margin-right: 200px;
+    margin-left: 200px;
+    border-radius: 30px;
+    border-color: black;
+    border:solid 2px;
+}
+.crd3 p {
+    padding-left: 10vh;
+    font-size: larger;
+}
+.bluebtn button {
+        width: 40vh;
+    height: 50px;
+    background-color: rgb(98, 115, 212);
+    border-radius: 10px;
+        border-color: black;
+    border:solid 2px;
+}
+.bluebtn {
+    padding-left: 25vh;
 }
