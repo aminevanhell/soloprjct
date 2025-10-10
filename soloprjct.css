@@ -164,3 +164,148 @@ nav{
 .bluebtn {
     padding-left: 25vh;
 }
+.crd4 {
+    display: flex;
+    justify-content: space-around;
+    border: solid 3px;
+    margin-right: 200px;
+    margin-left: 200px;
+    border-radius: 30px;
+}
+.crd4 h1 {
+    font-size: 46px;
+}
+.cards5 {
+display: flex;
+margin-top: 10vh;
+ justify-content: center;
+gap: 32vh;
+
+}
+.crds1{
+     border: 3px solid black;
+     height: 350px;
+     width: 300px;
+     border-radius: 10px;
+}
+.crds1 h1{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.crds1 p{
+    padding-left: 40px;
+}
+.crds1 h2{
+    padding-top: 90px;
+    padding-left: 40px;
+}
+.headphone {
+       margin-left: 40px;
+    margin-top: 30px;
+    margin-right: 12vh;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: rgb(234, 208, 39);
+}
+.headphone i{
+    padding-left: 30px;
+}
+.crds2{
+         border: 3px solid black;
+     height: 350px;
+     width: 300px;
+     border-radius: 10px;
+}
+.crds2 h1{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.crds2 p{
+    padding-left: 40px;
+}
+.crds2 h2{
+    padding-left: 40px;
+}
+.apps {
+       margin-left: 40px;
+    margin-top: 30px;
+    margin-right: 12vh;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: rgb(234, 208, 39);
+}
+.apps i{
+    padding-left: 30px;
+}
+.crds3{
+         border: 3px solid black;
+     height: 350px;
+     width: 350px;
+     border-radius: 10px;
+}
+.crds3 h1{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.crds3 p{
+    padding-left: 40px;
+}
+.crds3 h2{
+    padding-left: 40px;
+}
+.crds3 h1{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.crds3 p{
+    padding-left: 40px;
+}
+.crds3 h2{
+    padding-top: 90px;
+    padding-left: 40px;
+}
+.mobile {
+       margin-left: 40px;
+    margin-top: 30px;
+    margin-right: 12vh;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: rgb(234, 208, 39);
+}
+.mobile i{
+    padding-left: 30px;
+}
+.Lastcrd {
+    display: flex;
+    justify-content: space-around;
+    border: solid 3px;
+    margin-right: 200px;
+    margin-left: 200px;
+    border-radius: 30px;
+    height: 250px;
+   align-items: center;
+}
+.Lastcrd h1 {
+   font-size: 46px;
+}
+.Lastcrd button {
+    width: 500px;
+    background-color: rgb(237, 201, 21);
+    height: 60px;
+    border-radius: 10px;
+    border: 3px solid;
+    margin-top: 30px;
+}
+.Lastcrd p {
+    padding-left: 13vh;
+    font-size: x-large;
+    color: rgb(109, 109, 108);
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+.listprt1{
+    display: grid;
+    grid-template-columns: repeat(4,20vh);
+}
